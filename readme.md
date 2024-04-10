@@ -1,5 +1,5 @@
 # CryptLearn.Server
-Część backendowa rozszerzalnej platformy do nauki algorytmów kryptograficznych.
+Celem pracy było stworzenie interaktywnej platformy internetowej do nauki kryptografii, umożliwiającej implementację algorytmów w postaci kodu. Platforma oferuje moduły edukacyjne składające się z części teoretycznej i praktycznej. Teoria zawiera kluczowe informacje, natomiast praktyka obejmuje przykładowe rozwiązanie, szablon rozwiązania i testy. Platforma umożliwia używanie różnych języków programowania, początkowo Python 3, z opcją dodawania kolejnych przez administratorów. Użytkownicy mają różne prawa w systemie, od których zależą dostępne funkcjonalności. Aplikacja w wersji podstawowej umożliwia tworzenie kont, logowanie, tworzenie i edycję modułów edukacyjnych, rozwiązywanie zadań w wybranych językach programowania i weryfikację rozwiązań w zabezpieczonym kontenerze. Serwis webowy posiada niezbędne mechanizmy bezpieczeństwa, chroniące przed nieautoryzowanym dostępem do danych. Projekt ma potencjał rozwoju poprzez dodawanie języków programowania, rozwijanie funkcji feedbacku, ulepszanie bezpieczeństwa i interfejsu użytkownika oraz do rozwinięcia mechanizmu praw użytkowników.
 
 
 ## Wymagania
