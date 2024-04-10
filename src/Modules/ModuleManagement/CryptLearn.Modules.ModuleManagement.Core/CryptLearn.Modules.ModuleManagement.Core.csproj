@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Languages\CryptLearn.Modules.Languages.Shared\CryptLearn.Modules.Languages.Shared.csproj" />
+    <ProjectReference Include="..\CryptLearn.Modules.ModuleManagement.Shared\CryptLearn.Modules.ModuleManagement.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DAL\Migrations\" />
+  </ItemGroup>
+
+</Project>
